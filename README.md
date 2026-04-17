@@ -17,6 +17,13 @@ Este trabalho e baseado no ecossistema MCP Java SDK:
 - SDK oficial MCP Java: [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
 - Repositorio alvo deste fork/publicacao: [marcelohs402015/mcp-java-sdk](https://github.com/marcelohs402015/mcp-java-sdk)
 
+## Referencias uteis
+
+- MCP Java SDK (repo oficial): [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk)
+- Documentacao MCP Java SDK: [MCP Java SDK docs](https://modelcontextprotocol.io/sdk/java/mcp-overview)
+- Quickstart (dependencias/BOM): [Quickstart](https://java.sdk.modelcontextprotocol.io/latest/quickstart/)
+- Guia de servidor MCP Java: [Server Guide](https://java.sdk.modelcontextprotocol.io/latest/server/)
+
 ## Build
 
 ```bash
